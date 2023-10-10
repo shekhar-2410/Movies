@@ -1,3 +1,4 @@
+![image](https://github.com/shekhar-2410/Movies/assets/72644495/cb72f62b-2998-4d52-889d-841f67f63867)
 
 
 # React Native Movie Application
@@ -17,8 +18,8 @@ Welcome to the React Native Movie Application! This mobile application is built 
   - `react-native-heroicons`: Enhanced the UI with a collection of icons.
   - `expo-linear-gradient`: Added gradient effects to screens.
   - `lodash`: Utilized for efficient data manipulation.
-  - `nativewind`: A library for responsive design.
-  - `axios`: Made HTTP requests to fetch data from the API.
+  - `native wind`: A library for responsive design.
+  - `Axios`: Made HTTP requests to fetch data from the API.
 
 ## Getting Started
 
