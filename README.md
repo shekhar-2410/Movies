@@ -1,10 +1,10 @@
-![image](https://github.com/shekhar-2410/Movies/assets/72644495/798bad73-0862-4920-b634-246f85c23d7d)
-
-
 
 # React Native Movie Application
 
 Welcome to the React Native Movie Application! This mobile application is built using React Native and provides users with access to a variety of movie-related features, including trending movies, latest releases, upcoming movies, movie details, cast and crew information, and more. It also utilizes several third-party packages to enhance functionality.
+
+![image](https://github.com/shekhar-2410/Movies/assets/72644495/dc82eeec-6e09-47aa-9c95-e3a7e11b4abb)
+
 
 ## Features
 
