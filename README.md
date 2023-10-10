@@ -1,4 +1,5 @@
-![image](https://github.com/shekhar-2410/Movies/assets/72644495/cb72f62b-2998-4d52-889d-841f67f63867=250x250)
+![image](https://github.com/shekhar-2410/Movies/assets/72644495/798bad73-0862-4920-b634-246f85c23d7d)
+
 
 
 # React Native Movie Application
